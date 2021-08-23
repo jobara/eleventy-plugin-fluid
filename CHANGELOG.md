@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.3.1](https://www.github.com/jobara/eleventy-plugin-fluid/compare/v0.3.0...v0.3.1) (2021-08-23)
+
+
+### Bug Fixes
+
+* exclude package.json from lintspaces.jsonindentation ([d7904d9](https://www.github.com/jobara/eleventy-plugin-fluid/commit/d7904d9d3f1b579c0c1a6df0b32e9e77d3abdb3d))
+
 ## [0.3.0](https://www.github.com/fluid-project/eleventy-plugin-fluid/compare/v0.2.1...v0.3.0) (2021-08-23)
 
 
